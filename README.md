@@ -52,10 +52,10 @@ $ python detect.py <i or w> <image path>
 ## Results
 
 #### 1. Epoch 5 - Loss 3.865
-<p><img width="40%" src="./result/5_3.865.PNG" /></p>
+<p><img width="40%" src="img/5_3.865.PNG" /></p>
 
 #### 2. Epoch 10 - Loss 3.282
-<p><img width="40%" src="./result/10_3.282.PNG" /></p>
+<p><img width="40%" src="img/10_3.282.PNG" /></p>
 
 #### 3. Epoch 25 - Loss 2.972
-<p><img width="40%" src="./result/25_2.972.PNG" /></p>
+<p><img width="40%" src="img/25_2.972.PNG" /></p>
