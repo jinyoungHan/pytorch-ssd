@@ -1,5 +1,6 @@
 # SSD: Single Shot multibox Detector - Pytorch
-Repository: [https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
+Repository: [https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) <br/>
+You can run object detection in video using webcam
 ## Paper
 SSD: Single Shot MultiBox Detector [ECCV 2016](https://arxiv.org/abs/1512.02325)<br/>
 Wei Liu<sup> 1</sup>, Dragomir Anguelov<sup> 2</sup>, Dumitru Erhan<sup> 3</sup>, Christian Szegedy<sup> 3</sup>, Scott Reed<sup> 4</sup>,<br/>Cheng-Yang Fu<sup> 1</sup>, Alexander C. Berg<sup> 1</sup> <br/>
